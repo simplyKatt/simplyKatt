@@ -74,8 +74,8 @@ I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game
 
    - [`Discord`](https://discord.com/users/600464355917692952)
    - [`Email`](mailto:west701497@gmail.com)
+   - [`Also Email`](mailto:simplykatt@nirmini.dev)
    - [`Nirmini Support`](mailto:support@nirmini.dev)
-   - [`Roblox`](https://www.roblox.com/users/798440211)
    - [`Email(alt)`](mailto:simplykit0@proton.me)
 
 </details>
@@ -86,7 +86,8 @@ I'm a HS student who works in Information Tech (IT), Cybersecurity, and Web/Game
   - [`Discord`](https://discord.gg/9Y7aZejzUH)  
   - [`NovaBot`](https://github.com/Nirmini/NovaBot)  
   - [`GitHub Readme Stats`](https://github.com/stats-organization/github-readme-stats-action)  
-  - [`Skill Icons`](https://skillicons.dev)  
+  - [`Skill Icons`](https://skillicons.dev)
+  - [`Roblox`](https://www.roblox.com/users/798440211)
 
 </details>
 
