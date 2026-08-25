@@ -24,7 +24,7 @@ Vibe-coding as a practice isn't the worst thing so long as you take responsibili
    - [`NovaCore`](https://github.com/simplyKatt/NovaCore) - The open-source core application layer of Nova that we run the Discord.js instance off of.
    - [`NovaWorks`](https://platform.nirmini.dev/docs/platform/nworks) - Nova's Roblox integration and deprecated internal API.
    - [`NovaAPI`](https://platform.nirmini.dev/docs/api/nova) - Nova's Public and Internal API that users can build with
-   - 
+
 #### 🎮 Game Development Projects
 - [`Nirmini Research Complex`] - A Roblox Science Fiction game developed by Nirmini Development that takes place in 2028.
 - [`Untitled Roblox Game`] - A Roblox multiplayer survival game developed by Untitled Roblox Game Group.
