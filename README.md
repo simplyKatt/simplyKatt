@@ -27,9 +27,8 @@ Vibe-coding as a practice isn't the worst thing so long as you take responsibili
 
 #### 🎮 Game Development Projects
 - [`Nirmini Research Complex`] - A Roblox Science Fiction game developed by Nirmini Development that takes place in 2028.
-- [`Untitled Roblox Game`] - A Roblox multiplayer survival game developed by Untitled Roblox Game Group.
 - [`Starlight Media Center `] - A Roblox event venue and recording studio for Starlight Media, which is part of Nirmini.
-- [`Bot Maker's Toolkit`] - An App built on GameMaker & Node.js that allows users to create and manage Discord bots via Discord.js.
+- ~~[`Bot Maker's Toolkit`] - An App built on GameMaker & Node.js that allows users to create and manage Discord bots via Discord.js.~~
 
 #### 📚 Hobby Projects
 - [`LocalMatter`] - A completely self-hosted Matter device controller that can be run locally or connected to a Google/Apple home
