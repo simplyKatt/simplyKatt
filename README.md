@@ -44,7 +44,7 @@ Vibe-coding as a practice isn't the worst thing so long as you take responsibili
 - [`BetterYTPlaylists`] - A project to create a better YT Playlist widget within WordPress, created in PHP.
 
 #### 🖊️ Pentests (Completed and planned/in-progress)
-- Securly - N/A
+- I do things to try and make things safer for other people and for the greater good; as such, most of my work involving pentests is covered under RDPs, so I don't typically list things.
 
 ##### 
 > *Please note that I tend to get in and out of projects and such pretty frequently, so this may not be entirely accurate.*
