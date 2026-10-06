@@ -12,7 +12,7 @@ Vibe-coding as a practice isn't the worst thing so long as you take responsibili
 
 ## 📌 Key Notes
 
-- Self-Taught CommonJS(Node.js), ModuleJS, Lua/Luau, and C-family developer
+- Self-taught CommonJS(Node.js), ModuleJS, Lua/Luau, C-family developer, and Security Researcher
 - Certified in Web Development, among other things.
 - Started coding around **mid-to-late 2019 to early 2020**.
 - Founder/Director of [`Nirmini Development`](https://github.com/Nirmini).
