@@ -72,10 +72,10 @@ Vibe-coding as a practice isn't the worst thing so long as you take responsibili
    <summary>Contact Methods</summary>
 
    - [`Primary Discord`](https://discord.com/users/600464355917692952)
-   - [`Primary Email (Preferred)`](mailto:west701497@gmail.com)
-   - [`Nirmini Email`](mailto:simplykatt@nirmini.dev)
-   - [`Nirmini Support`](mailto:support@nirmini.dev)
-   - [`Secondary Email`](mailto:simplykit0@proton.me)
+   - [`Email`](mailto:west701497@gmail.com)
+   - [`Email(1)`](mailto:simplykatt@nirmini.dev)
+   - [`Email(2)`](mailto:hello@simplykatt.dev)
+   - [`Email(3)`](mailto:simplykit0@proton.me)
 
 </details>
 
